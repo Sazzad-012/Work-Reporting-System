@@ -1,9 +1,9 @@
 # Work-Reporting-System
 ============================================================================================ 
-# Dashboard folder (too large for GitHub upload):
+## Dashboard folder (too large for GitHub upload): ##
 
-# Download here:
-# (https://drive.google.com/file/d/15OM5q2cLO5aHwRjZijGOX9ZUAYCSqo-t/view?usp=drive_link)
+## Download here: ##
+## (https://drive.google.com/file/d/15OM5q2cLO5aHwRjZijGOX9ZUAYCSqo-t/view?usp=drive_link) ##
 
 ============================================================================================
 
@@ -17,7 +17,7 @@
 
 ============================================================================================
 
-##   MD. Sazzad Rashid Chowdhury (241-115-012)    ##
+##      MD. Sazzad Rashid Chowdhury (241-115-012)    ##
 ## -> Designed and managed the database structure using MySQL ##
 ## -> Created core database connection (config.php)  ##
 ## -> Implemented data handling for reports and users  ##
