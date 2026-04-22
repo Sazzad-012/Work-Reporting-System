@@ -1,5 +1,12 @@
 # Work-Reporting-System
+============================================================================================ 
+# Dashboard folder (too large for GitHub upload):
+
+# Download here:
+# (https://drive.google.com/file/d/15OM5q2cLO5aHwRjZijGOX9ZUAYCSqo-t/view?usp=drive_link)
+
 ============================================================================================
+
 ## [Group -7] ##
 ### MD. Sazzad Rashid Chowdhury (241-115-012) ###
 ### B.M. Fazla Elahi Sohan (241-115-020) ###
